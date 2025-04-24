@@ -1,4 +1,4 @@
-# 💬 FinBERT-Powered Financial Sentiment Analysis
+# 💬 LLM driven Financial Sentiment Analysis Tool
 
 This project demonstrates how to use **FinBERT**, a pre-trained transformer model specialized in financial sentiment analysis, to classify news headlines and financial text. The goal is to identify whether a given piece of text expresses **positive**, **negative**, or **neutral** sentiment within the financial domain.
 
